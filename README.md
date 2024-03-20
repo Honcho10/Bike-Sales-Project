@@ -28,9 +28,13 @@ To be able to analyse this data and to dig deep into what is happening, pivot ta
 ### Connection Elements
 #### State, Product descriptions and Customer gender Slicers:
 Introduction of slicers are een implemented in this analysis to be able to slice and dice the data. It enables me to know/see the connections and explore the dataset based State, Product descriptions and Customer gender. It enables me to have a better understanding of the relationship between the users and the products.
-# Observations
+## Observations
 * The female gender tends to be the one with the highest quantity order
 * The adult age group is identified as the group with the highest order of bike purcahses
 * This analysis shows that the Mountain-200 Black 46 is been purchased the most and the most purchases of the product is in the United States
 * The United States countribute the most to bike sales and it is also observed that California contributes the most to bike sales
 * it is also been observed that sales patterns vary across different countires in terms of thier preference.
+## Recommendations
+* Surveys should be conducted in other countries apart from the United State and some parts in Australia to understand their customer pains and preferences and the feedback gotten from the survey will be used to analyse all what the customers in that region wanted.
+* Maintaining positive customer experience to retain existing customers and encourage repeat purchases. This could include discounts on accessories, maintenance services, or exclusive offers for loyal customers.
+* Social media accounts could be considered to build brand awareness, engage with customers, and promote loyalty program benefits. Some advertisemnet method could be targeted at other countries other than United States or even all the countries to improve sales.
