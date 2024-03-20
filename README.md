@@ -1,5 +1,7 @@
 # Bike-Sales-Project
 The aim of these project is to gain insight into the factors affecting the sales of bike in different countries and their states. Cleaning of data is done in this project so as to remove duplicates, categorize into age groups and filter by there sales order.
+# Data Cleaning and Preparation
+The dataset used in this project is gotten from KAGGLE. The dataset is been loaded and data cleaning is performed, I also checked for some duplicates, null entries and inconsistent data entries are been removed.
 # Objective of the Analysis
 ### Sales Trend:
 
