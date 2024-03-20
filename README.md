@@ -24,7 +24,7 @@ How do sales patterns vary across different countries?
 Are there any regional preferences for specific bike product type?
 ## Analyzing the Data
 
-To be able to analyse this data and to dig deep into what is happening, pivot tables and pivot charts are been utilized. The next thing done is to consider and target what metrics we'll be using to gain insight in this data.
+To be able to analyse this data and to dig deep into what is happening, pivot tables and pivot charts are been utilized. The next thing done is to consider and target what metrics we'll be using to gain insight in this data and to be able to visualize and design the dashboard.
 ### Connection Elements
 #### State, Product descriptions and Customer gender Slicers:
 Introduction of slicers are een implemented in this analysis to be able to slice and dice the data. It enables me to know/see the connections and explore the dataset based State, Product descriptions and Customer gender. It enables me to have a better understanding of the relationship between the users and the products.
