@@ -5,23 +5,23 @@ The dataset used in this project is gotten from KAGGLE. The dataset is been load
 ## Objective of the Analysis
 ### Sales Trend:
 
-What are the overall product revenue trends of bike sales overtime?
-How have the sales of different bike products evolve in a day to day activities of a certain month?
+* What are the overall product revenue trends of bike sales overtime?
+* How have the sales of different bike products evolve in a day to day activities of a certain month?
 ### Customer Section:
 
-What Gender do the most purchases of bikes?
-What Agegroup purchases the most bike?
-How does the gender differences impact the sales of bike?
+* What Gender do the most purchases of bikes?
+* What Agegroup purchases the most bike?
+* How does the gender differences impact the sales of bike?
 ### Product Usage:
 
-What product of bike is been purchased the most?
-What is the distribution of sales across different states?
+* What product of bike is been purchased the most?
+* What is the distribution of sales across different states?
 ### Geographical Analysis:
 
-Which countries contribute the most to bike sales?
-which states contribute the most to bike sales
-How do sales patterns vary across different countries?
-Are there any regional preferences for specific bike product type?
+* Which countries contribute the most to bike sales?
+* which states contribute the most to bike sales
+* How do sales patterns vary across different countries?
+* Are there any regional preferences for specific bike product type?
 ## Analyzing the Data
 
 To be able to analyse this data and to dig deep into what is happening, pivot tables and pivot charts are been utilized. The next thing done is to consider and target what metrics we'll be using to gain insight in this data and to be able to visualize and design the dashboard.
